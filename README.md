@@ -6,4 +6,5 @@ Addition
 Substraction
 Multiplication
 Division
-<img width="1911" height="1015" alt="Screenshot 2026-01-09 210915" src="https://github.com/user-attachments/assets/228818f1-6ebb-4d8c-a848-aa6cbe5bf6b4" />
+<img width="799" height="906" alt="Screenshot 2026-01-09 212215" src="https://github.com/user-attachments/assets/ef317aee-4df1-461d-9fdf-efd57d3071a8" />
+
